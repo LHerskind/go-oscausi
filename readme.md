@@ -52,8 +52,6 @@ intermediate, we cannot prune it, as it is technically seen as a "fresh coin".
 
 The benchmarking here is done on the basis of a single spending, here both the mind
 
-TODO: Should also include size of proofs.
-
 | n | m | N | proving | verification |
 |---|---|---|---|---|
 | 2 | 10 | 1024 | 284 ms | 60 ms |
